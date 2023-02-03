@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am  first
+=======
+I am first
+>>>>>>> feature1
